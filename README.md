@@ -1,0 +1,1 @@
+# worst-company-simulation
